@@ -26,4 +26,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+<<<<<<< HEAD
 - Flexbox# social-links-profile
+=======
+- Flexbox
+>>>>>>> 37123ed (final fix)
